@@ -27,6 +27,21 @@ Upload a PDF or text file → Ask questions → Get accurate answers based **onl
 - 💾 **MongoDB Storage** - Persistent conversation history
 
 ---
+## 📸 Screenshots
+
+### Landing Page - Hero Section
+![Hero Section](Screenshots/1.png)
+*Modern dark-themed landing page with animated particle background and neon yellow accents*
+
+### Features Section
+![Features Section](Screenshots/2.png)
+*Comprehensive feature showcase highlighting RAG architecture, vector search, and AI capabilities*
+
+### Chat Interface
+![Chat Interface](Screenshots/3.png)
+*Beautiful dark-themed chat interface with document upload and real-time Q&A*
+
+---
 
 ## 🏗️ Architecture
 
