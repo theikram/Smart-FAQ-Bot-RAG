@@ -242,7 +242,7 @@ LLM_MODEL=google/gemini-2.0-flash-exp:free
 
 ---
 
-## 🎯 Resume Highlights
+## 🎯 Highlights
 
 **What This Project Demonstrates:**
 
@@ -253,12 +253,6 @@ LLM_MODEL=google/gemini-2.0-flash-exp:free
 ✅ Database management  
 ✅ API integration  
 ✅ Error handling & retry logic
-
-**Perfect for:**
-- Software Engineer roles
-- Full-stack Developer positions
-- AI/ML Engineer interviews
-- GenAI certification projects
 
 ---
 
@@ -292,14 +286,6 @@ LLM_MODEL=google/gemini-2.0-flash-exp:free
 ## 📄 License
 
 This project is for educational purposes. Free to use in portfolios.
-
----
-
-## 👨‍💻 Author
-
-Built to demonstrate Oracle GenAI Professional concepts through practical implementation.
-
-**Made with 💜 and ☕**
 
 ---
 
